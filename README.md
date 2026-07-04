@@ -17,11 +17,24 @@
 
 ## 🚀 Featured Projects
 
-### 🏠 House Price Prediction API
-Machine learning model deployed using FastAPI and Streamlit.
+### 🏡 End-to-End House Price Prediction
 
-**Tech:** Python, FastAPI, Scikit-learn, Pickle, Streamlit  
+A production-ready Machine Learning web application that predicts house prices based on user inputs. Built with a complete ML workflow, REST API, interactive frontend, Docker containerization, and cloud deployment.
 
+#### ⚡ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,github" />
+</p>
+#### ✨ Features
+
+- 📈 House Price Prediction using Machine Learning
+- ⚡ FastAPI REST API
+- 🎨 Interactive Streamlit Dashboard
+- 🐳 Dockerized Application
+- ☁️ Public Cloud Deployment
+- 📦 Clean Project Structure
+- 📚 Well Documented Repository
 ---
 
 ### 📰 FactFlow
