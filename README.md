@@ -18,24 +18,35 @@
 ## 🚀 Featured Projects
 
 ### 🏡 End-to-End House Price Prediction
+A production-ready Machine Learning web app that predicts house prices using a trained ML model, FastAPI backend, Streamlit frontend, Docker containerization, and public deployment.
 
-A production-ready Machine Learning web application that predicts house prices based on user inputs. Built with a complete ML workflow, REST API, interactive frontend, Docker containerization, and cloud deployment.
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, FastAPI, Streamlit, Docker, Render
 
-#### ⚡ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,github" />
-</p>
-#### ✨ Features
-
-- 📈 House Price Prediction using Machine Learning
+**Highlights**
+- 📈 ML-based house price prediction
 - ⚡ FastAPI REST API
-- 🎨 Interactive Streamlit Dashboard
-- 🐳 Dockerized Application
-- ☁️ Public Cloud Deployment
-- 📦 Clean Project Structure
-- 📚 Well Documented Repository
+- 🎨 Streamlit web interface
+- 🐳 Dockerized application
+- ☁️ Public deployment
+
+🔗 **Repository:** https://github.com/77anuj77/end-to-end-house-price-prediction  
+🌐 **Live Demo:** https://YOUR-RENDER-LINK.onrender.com
+
 ---
+
+### 📊 Marketing Campaign Analysis
+An end-to-end data analytics project focused on customer behavior, campaign performance, and business insights using Exploratory Data Analysis.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+**Highlights**
+- 🧹 Data cleaning and preprocessing
+- 📊 Exploratory Data Analysis
+- 📈 Customer behavior insights
+- 📌 Marketing performance analysis
+- 📋 Business recommendations
+
+🔗 **Repository:** https://github.com/77anuj77/Marketing-Campaign_Analysis
 
 ### 📰 FactFlow
 A news aggregator project built using Next.js, Supabase, RSS feeds, and AI summarization.
