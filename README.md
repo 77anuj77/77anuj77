@@ -112,7 +112,7 @@ A data analytics project focused on extracting actionable business insights from
 
 Transformed raw marketing data into strategic recommendations through systematic data cleaning, exploratory analysis, and visualization. Delivered a comprehensive report with data-driven insights for marketing optimization.
 
-<details>
+</details>
 
 <details>
 <summary><b> FactFlow</b> — <i>AI-Powered News Aggregator</i></summary>
