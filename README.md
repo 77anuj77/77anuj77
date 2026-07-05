@@ -250,7 +250,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=77anuj77&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=77anuj77&theme=radical&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 ---
@@ -266,7 +266,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://github.com/77anuj77/77anuj77/raw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
