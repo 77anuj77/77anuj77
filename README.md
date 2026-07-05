@@ -214,7 +214,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/github-trophies.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/trophy-output/github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---
