@@ -214,7 +214,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy-vajraa.vercel.app/?username=77anuj77&theme=radical&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/github-trophies.svg" alt="GitHub Trophies" />
 </p>
 
 ---

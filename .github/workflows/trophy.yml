@@ -1,0 +1,36 @@
+name: Generate GitHub Trophies
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: Generate trophies
+        uses: ryo-ma/github-profile-trophy@master
+        with:
+          username: 77anuj77
+          output_path: github-trophies.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: radical
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add github-trophies.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "Update trophies"
+            git push
+          fi
