@@ -54,11 +54,11 @@ My work spans **Machine Learning**, **Backend Development** with **FastAPI**, an
   <strong>Backend</strong><br/>
   <img src="https://skillicons.dev/icons?i=fastapi" /><br/><br/>
   <strong>Frontend</strong><br/>
-  <img src="https://skillicons.dev/icons?i=streamlit" /><br/><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/><br/>
   <strong>Database</strong><br/>
   <img src="https://skillicons.dev/icons?i=mysql" /><br/><br/>
-  <strong>DevOps</strong><br/>
-  <img src="https://skillicons.dev/icons?i=docker" /><br/><br/>
+  <strong>Cloud & DevOps</strong><br/>
+  <img src="https://skillicons.dev/icons?i=docker,supabase,render" /><br/><br/>
   <strong>Developer Tools</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,linux,postman" />
 </p>
@@ -226,10 +226,10 @@ An AI application enabling natural language interaction with PDF documents using
 ## Coding Profiles
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/77anuj77/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/anujpartoq6"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/a77anuj77"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/anujparoha07"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
 ---
@@ -250,7 +250,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=77anuj77&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=77anuj77&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" width="100%" />
 </p>
 
 ---
@@ -266,7 +266,7 @@ An AI application enabling natural language interaction with PDF documents using
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/77anuj77/77anuj77/blob/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 ---
