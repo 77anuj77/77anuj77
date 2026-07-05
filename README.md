@@ -113,6 +113,8 @@ A data analytics project focused on extracting actionable business insights from
 Transformed raw marketing data into strategic recommendations through systematic data cleaning, exploratory analysis, and visualization. Delivered a comprehensive report with data-driven insights for marketing optimization.
 
 <details>
+
+<details>
 <summary><b> FactFlow</b> — <i>AI-Powered News Aggregator</i></summary>
 <br/>
 
@@ -128,8 +130,6 @@ An AI-powered news aggregation platform designed to collect, organize, and summa
 | Repository | <a href="https://github.com/77anuj77/FactFlow"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github" /></a> |
 
 Built FactFlow to solve the problem of scattered and ad-heavy news reading by creating a centralized, clean, and AI-assisted news platform. The project focuses on fetching real-time news through RSS feeds, storing structured articles in Supabase, and generating concise summaries using AI for faster and better information consumption.
-
-</details>
 
 </details>
 
