@@ -201,12 +201,12 @@ An AI application enabling natural language interaction with PDF documents using
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=77anuj77&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&icon_color=6366F1&show_icons=true&count_private=false&include_all_commits=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77anuj77&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=77anuj77&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=77anuj77&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77anuj77&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77anuj77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
