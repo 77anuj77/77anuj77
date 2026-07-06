@@ -246,11 +246,13 @@ An AI application enabling natural language interaction with PDF documents using
 
 ---
 
-## Contribution Snake
+## Pac-Man Contribution
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
