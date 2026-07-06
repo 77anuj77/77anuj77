@@ -291,7 +291,7 @@ goals:
 
 ---
 
-## Connect
+## Connect 
 
 <p align="center">
   <a href="mailto:anujparoha07@gmail.com">
