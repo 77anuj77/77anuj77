@@ -221,7 +221,7 @@ An AI application enabling natural language interaction with PDF documents using
 
 <p align="center">
   <img src="https://github-readme-stats-vajraa.vercel.app/api?username=77anuj77&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-4r00bm7qu-vajraa.vercel.app/?user=77anuj77&theme=radical" alt="GitHub Streak" />
+  <img src="./profile/streak.svg" alt="GitHub Streak" />
 </p>
 
 <p align="center">
