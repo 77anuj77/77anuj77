@@ -91,7 +91,7 @@ A full-stack machine learning application that predicts house prices using a tra
 | Architecture | ML Model → FastAPI REST API → Streamlit Frontend → Docker → Cloud Deploy |
 | Deployment | Docker container hosted on Render with public API endpoint |
 | Performance | Optimized regression model delivering real-time predictions |
-| Repository | <a href="https://github.com/77anuj77/end-to-end-house-price-prediction"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github" /></a> |
+| Repository | <a href="https://github.com/77anuj77/end-to-end-house-price-prediction-pipeline"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=flat-square&logo=github" /></a> |
 
 Covers the complete ML product lifecycle: data preprocessing, feature engineering, model training and evaluation, API development, frontend integration, containerization, and cloud deployment. Demonstrates end-to-end ownership of an ML system.
 
