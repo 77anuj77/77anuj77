@@ -127,7 +127,7 @@ An AI-powered news aggregation platform designed to collect, organize, and summa
 | Database/Auth | Supabase for backend storage and authentication |
 | AI Feature | Gemini API-based news summarization |
 | Categories | AI, Tech, Sports, Entertainment, Business, and more |
-| Repository | <a href="https://github.com/77anuj77/FactFlow"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github" /></a> |
+| Repository | <a href="https://github.com/77anuj77/FactFlow-2.0"><img src="https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github" /></a> |
 
 Built FactFlow to solve the problem of scattered and ad-heavy news reading by creating a centralized, clean, and AI-assisted news platform. The project focuses on fetching real-time news through RSS feeds, storing structured articles in Supabase, and generating concise summaries using AI for faster and better information consumption.
 
