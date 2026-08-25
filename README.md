@@ -79,40 +79,14 @@
 
 ---
 
-## Current Focus
+## Projects
 
-```yaml
-learning:
-  - Machine Learning & Artificial Intelligence
-  - Natural Language Processing (NLP)
-  - FastAPI backend development
-  - Docker containerization & MLOps
-  - Production ML system design
-
-building:
-  - End-to-end ML applications with FastAPI and Streamlit
-  - AI-powered tools (Resume Analyzer, PDF Chat)
-  - Open source developer projects
-  - Portfolio of deployable AI systems
-
-exploring:
-  - Computer Vision
-  - LLM Applications & Prompt Engineering
-  - Advanced MLOps & CI/CD pipelines
-  - System design for ML systems
-
-open_to:
-  - AI Engineering Internships
-  - Machine Learning Internships
-  - Backend Development Roles
-  - Open Source Collaborations
-
-goals:
-  - Ship production-grade AI systems
-  - Contribute to impactful open source projects
-  - Build expertise in end-to-end ML deployment
-  - Grow as a software engineer and AI practitioner
-```
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=77anuj77&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=77anuj77&theme=github-dark" alt="77anuj77 projects section" />
+  </picture>
+</p>
 
 ---
 
