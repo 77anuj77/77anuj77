@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:4F46E5&height=300&section=header&text=Anuj%20Paroha&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=B.Tech%20AIML%20%40%20SIT%20Pune%20%7C%20AI%20%7C%20ML%20%7C%20Backend%20%7C%20FastAPI&descAlignY=55&descAlign=50" width="100%"/>
-</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
