@@ -69,14 +69,6 @@
 
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=77anuj77&theme=radical&bg_color=0D1117&hide_border=true&color=8B5CF6&line=6366F1&point=4F46E5&area=true&area_color=8B5CF6" width="100%" />
-</p>
-
----
-
 ## Pac-Man Contribution
 
 <picture>
