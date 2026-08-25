@@ -161,6 +161,3 @@ goals:
   <i>Building intelligent systems — one model at a time.</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:6366F1,100:8B5CF6&height=150&section=footer&text=Anuj%20Paroha&fontSize=30&fontColor=ffffff&fontAlignY=65" width="100%" />
-</p>
