@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/space-shooter.svg" width="800">
-</p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/space-shooter.gif" alt="GitHub Contribution Space Shooter" width="600">
+  
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Engineering+%26+Machine+Learning;Backend+Development+%7C+FastAPI+%7C+Python;Building+Production+ML+Systems;Open+Source+%7C+Docker+%7C+MLOps;B.Tech+AIML+%40+Symbiosis+Institute+of+Technology" alt="Typing SVG" />
