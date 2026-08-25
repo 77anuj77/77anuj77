@@ -65,11 +65,6 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-vajraa.vercel.app/api?username=77anuj77&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-vajraa.vercel.app/api/top-langs/?username=77anuj77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
