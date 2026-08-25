@@ -61,12 +61,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-vajraa.vercel.app/api/top-langs/?username=77anuj77&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## GitHub Trophies
 
 <p align="center">
