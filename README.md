@@ -1,5 +1,11 @@
-# 77anuj77
+## 🚀 Contribution Game
 
-> Memorable developer positioning.
-
-## Heatmap
+<p align="center">
+  <a href="https://github.com/77anuj77">
+    <img
+      src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/space-shooter.gif"
+      alt="GitHub Contribution Space Shooter"
+      width="900"
+    />
+  </a>
+</p>
