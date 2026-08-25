@@ -75,7 +75,7 @@
 </p>
 
 ---
-
+<!--
 ## Pac-Man Contribution
 
 <picture>
@@ -85,7 +85,7 @@
 </picture>
 
 ---
-
+-->
 ## Projects
 
 <p align="center">
