@@ -1,3 +1,8 @@
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/pacman-contribution-graph.svg">
+</picture>
+
 <p align="center"> <img src="https://raw.githubusercontent.com/77anuj77/77anuj77/output/space-shooter.gif" alt="GitHub Contribution Space Shooter" width="600">
   
 <p align="center">
