@@ -49,11 +49,11 @@
   </a>
 </p>
 
----
 <p align="center">
   <strong>Explore my projects, experience, achievements, and technical journey.</strong>
 </p>
 
+---
 ## Tech Stack
 
 <p align="center">
