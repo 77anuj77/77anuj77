@@ -41,6 +41,18 @@
 </p>
 
 ---
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-one-beta-1qwgwe8sdg.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-Visit%20Now-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio"/>
+  </a>
+</p>
+
+---
+<p align="center">
+  <strong>Explore my projects, experience, achievements, and technical journey.</strong>
+</p>
 
 ## Tech Stack
 
