@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/github/stars/77anuj77?label=Stars&color=6366F1&style=flat-square&logo=github" />
 </p>
 
----
 
 ## Projects
 
@@ -40,7 +39,6 @@
   </picture>
 </p>
 
----
 ## 🌐 Portfolio
 
 <p align="center">
@@ -53,7 +51,6 @@
   <strong>Explore my projects, experience, achievements, and technical journey.</strong>
 </p>
 
----
 ## Tech Stack
 
 <p align="center">
@@ -64,7 +61,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
----
 
 ## Coding Profiles
 
@@ -75,7 +71,6 @@
   <a href="https://www.hackerrank.com/profile/anujparoha07"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" /></a>
 </p>
 
----
 
 ## GitHub Analytics
 
@@ -88,7 +83,6 @@
   <img src="https://github-readme-stats-vajraa.vercel.app/api/top-langs/?username=77anuj77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 
 ## GitHub Trophies
 
