@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=77anuj77&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+  <!--<img src="https://komarev.com/ghpvc/?username=77anuj77&label=Profile%20Views&color=8B5CF6&style=flat-square" /> -->
   <img src="https://img.shields.io/github/followers/77anuj77?label=Followers&color=7C3AED&style=flat-square&logo=github" />
   <img src="https://img.shields.io/github/stars/77anuj77?label=Stars&color=6366F1&style=flat-square&logo=github" />
 </p>
